@@ -17,9 +17,11 @@ Features
 ScamShield empowers users to make smarter, safer decisions in the digital financial space.
 
 Application Screenshots
+
 You can access the screenshots from the application here [HERE](https://github.com/isaackingx/Scam-Shield/tree/main/Application%20Screenshots)
 
 Dowload The Application 
+
 You can also the scamshield [HERE](https://easyupload.io/oj5zw6) , the application is currently experiencing downtime and this page will be updated when it is back up
 
 
