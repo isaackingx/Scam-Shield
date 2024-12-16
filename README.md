@@ -22,7 +22,7 @@ You can access the screenshots from the application here [HERE](https://github.c
 
 Dowload The Application 
 
-You can also the scamshield [HERE](https://easyupload.io/oj5zw6) , the application is currently experiencing downtime and this page will be updated when it is back up
+You can also download the scamshield application [HERE](https://easyupload.io/oj5zw6) , the application is currently experiencing downtime and this page will be updated when it is back up
 
 
 
